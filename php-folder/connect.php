@@ -14,5 +14,3 @@
 	header("Access-Control-Allow-Methods: PUT, GET, POST, DELETE, OPTIONS");
 	header("Access-Control-Allow-Headers: Origin, Content-Type, Authorization, Accept, X-Requested-With, x-xsrf-token");
 	header("Content-Type: application/json; charset=utf-8");
-
-	// cubaan satu dua tiga
